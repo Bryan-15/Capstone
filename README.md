@@ -1,2 +1,2 @@
-# Capstone
-A Web Based System For Bell Pepper Leaf Disease Image Detection
+# BellPepperLeafDiseaseImageDetection-WebApp-StreamlitWeb
+Bell Pepper Leaf Disease Image Detection Web Application
